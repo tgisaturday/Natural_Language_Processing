@@ -1,0 +1,7 @@
+(S ((NP I) (VP ((VP ((VP ((VP saw) (NP ((DT a) (NP man))))) (PP ((P on) (NP ((DT the) (NP hill))))))) (PP ((P with) (NP ((DT the) (NP telescope)))))))))
+
+(S ((NP ((NP time) (VP flies))) (VP ((VP like) (NP ((DT an) (NP arrow)))))))
+(S ((NP time) (VP ((VP flies) (PP ((P like) (NP ((DT an) (NP arrow)))))))))
+
+(S ((NP ((DT the) (NP man))) (VP ((VP ((VP saw) (NP ((DT the) (NP man))))) (PP ((P with) (NP ((DT the) (NP telescope)))))))))
+

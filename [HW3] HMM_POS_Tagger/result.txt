@@ -1,0 +1,99 @@
+안녕하세요
+ 1. 안녕/NNG+하/NNG+세/NNB+요/EC
+ 2. 안녕/NNG+하/MAG+세/NNB+요/EC
+ 3. 안녕/IC+하/MAG+세/NNB+요/EC
+ 4. 안녕/NNG+하/NNP+세/NNB+요/EC
+ 5. 안녕/NNG+하/NNG+세/NNG+요/EC
+ 6. 안녕/NNG+하/MAG+세/NNG+요/EC
+ 7. 안녕/IC+하/MAG+세/NNG+요/EC
+ 8. 안녕/NNG+하/NNP+세/NNG+요/EC
+ 9. 안녕/NNG+하/NNG+세/VA+요/EC
+10. 안녕/NNG+하/MAG+세/VA+요/EC
+11. 안녕/IC+하/MAG+세/VA+요/EC
+12. 안녕/NNG+하/VV+세/VV+요/EC
+13. 안녕/IC+하/VV+세/VV+요/EC
+14. 안녕/NNG+하/NNG+세/VV+요/EC
+15. 안녕/NNG+하/MAG+세/VV+요/EC
+16. 안녕/IC+하/MAG+세/VV+요/EC
+17. 안녕/IC+하/IC+세/VV+요/EC
+18. 안녕/NNG+하/XSV+세/EC+요/EC
+19. 안녕/NNG+하/XSA+세/EC+요/EC
+20. 안녕/NNG+하/VV+세/EC+요/EC
+21. 안녕/IC+하/VV+세/EC+요/EC
+22. 안녕/NNG+하/NNG+세/EC+요/EC
+23. 안녕/NNG+하/MAG+세/MM+요/JX
+24. 안녕/IC+하/MAG+세/MM+요/JX
+25. 안녕/NNG+하/NNP+세/MM+요/JX
+26. 안녕/NNG+하/XSV+세/EC+요/JX
+27. 안녕/NNG+하/XSA+세/EC+요/JX
+28. 안녕/NNG+하/VV+세/EC+요/JX
+29. 안녕/IC+하/VV+세/EC+요/JX
+30. 안녕/NNG+하/NNG+세/EC+요/JX
+31. 안녕/NNG+하/XSV+세/EF+요/JX
+32. 안녕/NNG+하/XSA+세/EF+요/JX
+
+너를
+ 1. 너/NP+를/JKO
+ 2. 너르/VA+ㄹ/ETM
+ 3. 너/NP+를/JKO
+ 4. 너/NP+르/NNG+ㄹ/JKO
+사랑해!
+ 1. 사랑/NNG+해/NNG+!/SF
+ 2. 사랑/NNG+하/VV+어/EF+!/SF
+ 3. 사/NNG+랑/JKB+해/NNG+!/SF
+ 4. 사/NR+랑/JKB+해/NNG+!/SF
+ 5. 사/NNG+랑/NNP+해/NNG+!/SF
+ 6. 사/NNG+랑/JKB+하/VV+어/EF+!/SF
+ 7. 사/NR+랑/JKB+하/VV+어/EF+!/SF
+ 8. 사/NNG+랑/NNP+하/VV+어/EF+!/SF
+
+우리집에
+ 1. 우리/NP+집/NNG+에/JKB
+ 2. 우리/NNG+집/NNG+에/JKB
+ 3. 우리/NP+집/NNB+에/JKB
+ 4. 우리/NNG+집/NNB+에/JKB
+ 5. 우리/NP+집/NNG+에/NNG
+ 6. 우리/NNG+집/NNG+에/NNG
+ 7. 우리/NP+집/NNB+에/NNG
+ 8. 우리/NNG+집/NNB+에/NNG
+ 9. 우리/NP+집/VV+에/EC
+10. 우리/NNG+집/VV+에/EC
+11. 우리/VV+집/VV+에/EC
+12. 우/NNG+리/NNB+집/NNG+에/JKB
+13. 우/NNP+리/NNB+집/NNG+에/JKB
+14. 우/EC+리/NNB+집/NNG+에/JKB
+15. 우/MAG+리/NNB+집/NNG+에/JKB
+16. 우/NNG+리/NNG+집/NNG+에/JKB
+17. 우/NNP+리/NNG+집/NNG+에/JKB
+18. 우/EC+리/NNG+집/NNG+에/JKB
+19. 우/MAG+리/NNG+집/NNG+에/JKB
+20. 우/NNG+리/NNP+집/NNG+에/JKB
+21. 우/NNP+리/NNP+집/NNG+에/JKB
+22. 우/NNG+리/EC+집/NNG+에/JKB
+23. 우/EC+리/EC+집/NNG+에/JKB
+24. 우/NNG+리/XSN+집/NNG+에/JKB
+25. 우/NNP+리/XSN+집/NNG+에/JKB
+26. 우/EC+리/XSN+집/NNG+에/JKB
+27. 우/IC+리/XSN+집/NNG+에/JKB
+28. 우/MAG+리/XSN+집/NNG+에/JKB
+29. 우/NNG+리/NNB+집/NNB+에/JKB
+30. 우/NNP+리/NNB+집/NNB+에/JKB
+왜
+ 1. 왜/MAG
+ 2. 왜/NNP
+ 3. 왜/IC
+ 4. 왜/NNG
+왔니?
+ 1. 오/VV+아/EC+ㅆ/EP+니/EF+?/SF
+ 2. 와/VV+ㅆ/EP+니/EF+?/SF
+ 3. 오/VV+아/EC+ㅆ/EP+니/NNG+?/SF
+ 4. 와/VV+ㅆ/EP+니/NNG+?/SF
+ 5. 오/VX+았/EP+니/EF+?/SF
+ 6. 오/VV+았/EP+니/EF+?/SF
+ 7. 오/VX+았/EP+니/NNG+?/SF
+ 8. 오/VV+았/EP+니/NNG+?/SF
+ 9. 오/VX+아/EC+ㅆ/EP+니/EF+?/SF
+10. 오/VV+아/EC+ㅆ/EP+니/EF+?/SF
+11. 오/VX+아/EC+ㅆ/EP+니/NNG+?/SF
+12. 오/VV+아/EC+ㅆ/EP+니/NNG+?/SF
+
