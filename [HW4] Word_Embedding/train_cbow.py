@@ -140,7 +140,7 @@ for epoch in range(10):
   print("epochs: %d" % (epoch+1))
   print("time eplased: %d seconds" % (end-start))
   print("mean loss: %.4f" % (total_loss / (train_input.shape[0] // BATCH_SIZE)))
-  torch.save(model.state_dict(), "epoch{}.model".format(epoch))
+  torch.save(model.state_dict(), "models/CBOW/epoch{}.model".format(epoch))
 
 # Here you need to save the model's hidden layer which is V * D word embedding matrix.
 # Then, use the word embedding matrix to get vectors for word
